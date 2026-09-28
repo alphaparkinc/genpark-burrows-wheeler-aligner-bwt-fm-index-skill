@@ -1,0 +1,19 @@
+{
+  "name": "genpark-burrows-wheeler-aligner-bwt-fm-index-skill",
+  "version": "1.0.0",
+  "description": "Ferragina-Manzini (FM-index) exact pattern matching and substring counting over genomic sequence collections",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "fm-index",
+    "bwt",
+    "genomic-indexing",
+    "sequence-search",
+    "bioinformatics",
+    "burrows-wheeler",
+    "python-standard-library",
+    "agent-skills",
+    "string-algorithms",
+    "pattern-matching"
+  ]
+}
