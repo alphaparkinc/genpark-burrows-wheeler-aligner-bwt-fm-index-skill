@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-burrows-wheeler-aligner-bwt-fm-index-skill"
+version = "1.0.0"
+description = "Ferragina-Manzini (FM-index) exact pattern matching and substring counting over genomic sequence collections"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
